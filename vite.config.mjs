@@ -15,7 +15,7 @@ export default defineConfig({
     environment: "jsdom",
     setupFiles: ["./src/test/setup.ts"],
     coverage: {
-      thresholds: 80
+      thresholds: 100
     }
   }
 });
