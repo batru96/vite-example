@@ -8,7 +8,7 @@ const App: React.FC = () => {
     <Router>
       <nav className="p-4 bg-gray-100 flex gap-4">
         <Link to="/" className="text-blue-600">Home</Link>
-        <Link to="/about" className="text-blue-600">About</Link>
+        <Link to="/about" className="text-blue-600">Abouxt</Link>
       </nav>
       <div className="p-4">
         <Routes>
